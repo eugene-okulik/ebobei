@@ -9,4 +9,3 @@ print("Гипотенуза:", triangle_hypotenuse)
 # Расчет площади
 triangle_area = 0.5 * a * b
 print("Площадь:", triangle_area)
-
